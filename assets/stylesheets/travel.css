@@ -189,14 +189,14 @@ target the element with the id of chile
 
 
 /*
- target the element with the id of social-links
-  - float the social links to the right
-  - give a top and bottom padding of 5px
-  - give a left and right padding of 15px
+ target the element with the id of social-links and set:
+  - float to right
+  - a top and bottom padding of 5px
+  - a left and right padding of 15px
 */
 
 
 /*
- target the links inside the element with the id of social-links
+ target the links (anchor <a> tags) inside the element with the id of social-links
   - make sure the text is white and there is no underline
 */
